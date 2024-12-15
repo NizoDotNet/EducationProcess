@@ -1,0 +1,8 @@
+Create table Course(
+	Id INT PRIMARY KEY AUTO_INCREMENT,
+    Code VARCHAR(7)
+);
+CREATE TABLE Semester(
+	Id INT PRIMARY KEY AUTO_INCREMENT,
+    NAME VARCHAR(6)
+);

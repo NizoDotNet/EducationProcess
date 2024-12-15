@@ -1,0 +1,1277 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ders\\kursavoy\\DB\\EducationProcess\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0F984E02-635A-4994-8A1E-A24A578F17B7}|EducationProcess\\EducationProcess.csproj|d:\\ders\\kursavoy\\db\\educationprocess\\educationprocess\\pages\\faculties\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F984E02-635A-4994-8A1E-A24A578F17B7}|EducationProcess\\EducationProcess.csproj|solutionrelative:educationprocess\\pages\\faculties\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F984E02-635A-4994-8A1E-A24A578F17B7}|EducationProcess\\EducationProcess.csproj|d:\\ders\\kursavoy\\db\\educationprocess\\educationprocess\\pages\\faculties\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0F984E02-635A-4994-8A1E-A24A578F17B7}|EducationProcess\\EducationProcess.csproj|solutionrelative:educationprocess\\pages\\faculties\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F984E02-635A-4994-8A1E-A24A578F17B7}|EducationProcess\\EducationProcess.csproj|d:\\ders\\kursavoy\\db\\educationprocess\\educationprocess\\pages\\faculties\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F984E02-635A-4994-8A1E-A24A578F17B7}|EducationProcess\\EducationProcess.csproj|solutionrelative:educationprocess\\pages\\faculties\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F984E02-635A-4994-8A1E-A24A578F17B7}|EducationProcess\\EducationProcess.csproj|d:\\ders\\kursavoy\\db\\educationprocess\\educationprocess\\pages\\faculties\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0F984E02-635A-4994-8A1E-A24A578F17B7}|EducationProcess\\EducationProcess.csproj|solutionrelative:educationprocess\\pages\\faculties\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F984E02-635A-4994-8A1E-A24A578F17B7}|EducationProcess\\EducationProcess.csproj|d:\\ders\\kursavoy\\db\\educationprocess\\educationprocess\\pages\\faculties\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F984E02-635A-4994-8A1E-A24A578F17B7}|EducationProcess\\EducationProcess.csproj|solutionrelative:educationprocess\\pages\\faculties\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F984E02-635A-4994-8A1E-A24A578F17B7}|EducationProcess\\EducationProcess.csproj|d:\\ders\\kursavoy\\db\\educationprocess\\educationprocess\\pages\\faculties\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0F984E02-635A-4994-8A1E-A24A578F17B7}|EducationProcess\\EducationProcess.csproj|solutionrelative:educationprocess\\pages\\faculties\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F984E02-635A-4994-8A1E-A24A578F17B7}|EducationProcess\\EducationProcess.csproj|d:\\ders\\kursavoy\\db\\educationprocess\\educationprocess\\pages\\faculties\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F984E02-635A-4994-8A1E-A24A578F17B7}|EducationProcess\\EducationProcess.csproj|solutionrelative:educationprocess\\pages\\faculties\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F984E02-635A-4994-8A1E-A24A578F17B7}|EducationProcess\\EducationProcess.csproj|d:\\ders\\kursavoy\\db\\educationprocess\\educationprocess\\pages\\faculties\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0F984E02-635A-4994-8A1E-A24A578F17B7}|EducationProcess\\EducationProcess.csproj|solutionrelative:educationprocess\\pages\\faculties\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F984E02-635A-4994-8A1E-A24A578F17B7}|EducationProcess\\EducationProcess.csproj|d:\\ders\\kursavoy\\db\\educationprocess\\educationprocess\\pages\\faculties\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F984E02-635A-4994-8A1E-A24A578F17B7}|EducationProcess\\EducationProcess.csproj|solutionrelative:educationprocess\\pages\\faculties\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F984E02-635A-4994-8A1E-A24A578F17B7}|EducationProcess\\EducationProcess.csproj|d:\\ders\\kursavoy\\db\\educationprocess\\educationprocess\\pages\\faculties\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0F984E02-635A-4994-8A1E-A24A578F17B7}|EducationProcess\\EducationProcess.csproj|solutionrelative:educationprocess\\pages\\faculties\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F984E02-635A-4994-8A1E-A24A578F17B7}|EducationProcess\\EducationProcess.csproj|d:\\ders\\kursavoy\\db\\educationprocess\\educationprocess\\pages\\grades\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F984E02-635A-4994-8A1E-A24A578F17B7}|EducationProcess\\EducationProcess.csproj|solutionrelative:educationprocess\\pages\\grades\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F984E02-635A-4994-8A1E-A24A578F17B7}|EducationProcess\\EducationProcess.csproj|d:\\ders\\kursavoy\\db\\educationprocess\\educationprocess\\pages\\grades\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0F984E02-635A-4994-8A1E-A24A578F17B7}|EducationProcess\\EducationProcess.csproj|solutionrelative:educationprocess\\pages\\grades\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F984E02-635A-4994-8A1E-A24A578F17B7}|EducationProcess\\EducationProcess.csproj|d:\\ders\\kursavoy\\db\\educationprocess\\educationprocess\\pages\\grades\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F984E02-635A-4994-8A1E-A24A578F17B7}|EducationProcess\\EducationProcess.csproj|solutionrelative:educationprocess\\pages\\grades\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F984E02-635A-4994-8A1E-A24A578F17B7}|EducationProcess\\EducationProcess.csproj|d:\\ders\\kursavoy\\db\\educationprocess\\educationprocess\\pages\\grades\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0F984E02-635A-4994-8A1E-A24A578F17B7}|EducationProcess\\EducationProcess.csproj|solutionrelative:educationprocess\\pages\\grades\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F984E02-635A-4994-8A1E-A24A578F17B7}|EducationProcess\\EducationProcess.csproj|d:\\ders\\kursavoy\\db\\educationprocess\\educationprocess\\pages\\grades\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F984E02-635A-4994-8A1E-A24A578F17B7}|EducationProcess\\EducationProcess.csproj|solutionrelative:educationprocess\\pages\\grades\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F984E02-635A-4994-8A1E-A24A578F17B7}|EducationProcess\\EducationProcess.csproj|d:\\ders\\kursavoy\\db\\educationprocess\\educationprocess\\pages\\grades\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0F984E02-635A-4994-8A1E-A24A578F17B7}|EducationProcess\\EducationProcess.csproj|solutionrelative:educationprocess\\pages\\grades\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F984E02-635A-4994-8A1E-A24A578F17B7}|EducationProcess\\EducationProcess.csproj|d:\\ders\\kursavoy\\db\\educationprocess\\educationprocess\\pages\\grades\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F984E02-635A-4994-8A1E-A24A578F17B7}|EducationProcess\\EducationProcess.csproj|solutionrelative:educationprocess\\pages\\grades\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F984E02-635A-4994-8A1E-A24A578F17B7}|EducationProcess\\EducationProcess.csproj|d:\\ders\\kursavoy\\db\\educationprocess\\educationprocess\\pages\\grades\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0F984E02-635A-4994-8A1E-A24A578F17B7}|EducationProcess\\EducationProcess.csproj|solutionrelative:educationprocess\\pages\\grades\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F984E02-635A-4994-8A1E-A24A578F17B7}|EducationProcess\\EducationProcess.csproj|d:\\ders\\kursavoy\\db\\educationprocess\\educationprocess\\pages\\grades\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F984E02-635A-4994-8A1E-A24A578F17B7}|EducationProcess\\EducationProcess.csproj|solutionrelative:educationprocess\\pages\\grades\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F984E02-635A-4994-8A1E-A24A578F17B7}|EducationProcess\\EducationProcess.csproj|d:\\ders\\kursavoy\\db\\educationprocess\\educationprocess\\pages\\grades\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0F984E02-635A-4994-8A1E-A24A578F17B7}|EducationProcess\\EducationProcess.csproj|solutionrelative:educationprocess\\pages\\grades\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F984E02-635A-4994-8A1E-A24A578F17B7}|EducationProcess\\EducationProcess.csproj|d:\\ders\\kursavoy\\db\\educationprocess\\educationprocess\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0F984E02-635A-4994-8A1E-A24A578F17B7}|EducationProcess\\EducationProcess.csproj|solutionrelative:educationprocess\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F984E02-635A-4994-8A1E-A24A578F17B7}|EducationProcess\\EducationProcess.csproj|d:\\ders\\kursavoy\\db\\educationprocess\\educationprocess\\pages\\cafedras\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F984E02-635A-4994-8A1E-A24A578F17B7}|EducationProcess\\EducationProcess.csproj|solutionrelative:educationprocess\\pages\\cafedras\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F984E02-635A-4994-8A1E-A24A578F17B7}|EducationProcess\\EducationProcess.csproj|d:\\ders\\kursavoy\\db\\educationprocess\\educationprocess\\pages\\cafedras\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0F984E02-635A-4994-8A1E-A24A578F17B7}|EducationProcess\\EducationProcess.csproj|solutionrelative:educationprocess\\pages\\cafedras\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F984E02-635A-4994-8A1E-A24A578F17B7}|EducationProcess\\EducationProcess.csproj|d:\\ders\\kursavoy\\db\\educationprocess\\educationprocess\\pages\\cafedras\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F984E02-635A-4994-8A1E-A24A578F17B7}|EducationProcess\\EducationProcess.csproj|solutionrelative:educationprocess\\pages\\cafedras\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F984E02-635A-4994-8A1E-A24A578F17B7}|EducationProcess\\EducationProcess.csproj|d:\\ders\\kursavoy\\db\\educationprocess\\educationprocess\\pages\\cafedras\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0F984E02-635A-4994-8A1E-A24A578F17B7}|EducationProcess\\EducationProcess.csproj|solutionrelative:educationprocess\\pages\\cafedras\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F984E02-635A-4994-8A1E-A24A578F17B7}|EducationProcess\\EducationProcess.csproj|d:\\ders\\kursavoy\\db\\educationprocess\\educationprocess\\pages\\cafedras\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F984E02-635A-4994-8A1E-A24A578F17B7}|EducationProcess\\EducationProcess.csproj|solutionrelative:educationprocess\\pages\\cafedras\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F984E02-635A-4994-8A1E-A24A578F17B7}|EducationProcess\\EducationProcess.csproj|d:\\ders\\kursavoy\\db\\educationprocess\\educationprocess\\pages\\cafedras\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0F984E02-635A-4994-8A1E-A24A578F17B7}|EducationProcess\\EducationProcess.csproj|solutionrelative:educationprocess\\pages\\cafedras\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F984E02-635A-4994-8A1E-A24A578F17B7}|EducationProcess\\EducationProcess.csproj|d:\\ders\\kursavoy\\db\\educationprocess\\educationprocess\\pages\\cafedras\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F984E02-635A-4994-8A1E-A24A578F17B7}|EducationProcess\\EducationProcess.csproj|solutionrelative:educationprocess\\pages\\cafedras\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F984E02-635A-4994-8A1E-A24A578F17B7}|EducationProcess\\EducationProcess.csproj|d:\\ders\\kursavoy\\db\\educationprocess\\educationprocess\\pages\\cafedras\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0F984E02-635A-4994-8A1E-A24A578F17B7}|EducationProcess\\EducationProcess.csproj|solutionrelative:educationprocess\\pages\\cafedras\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F984E02-635A-4994-8A1E-A24A578F17B7}|EducationProcess\\EducationProcess.csproj|d:\\ders\\kursavoy\\db\\educationprocess\\educationprocess\\pages\\cafedras\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F984E02-635A-4994-8A1E-A24A578F17B7}|EducationProcess\\EducationProcess.csproj|solutionrelative:educationprocess\\pages\\cafedras\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F984E02-635A-4994-8A1E-A24A578F17B7}|EducationProcess\\EducationProcess.csproj|d:\\ders\\kursavoy\\db\\educationprocess\\educationprocess\\pages\\cafedras\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0F984E02-635A-4994-8A1E-A24A578F17B7}|EducationProcess\\EducationProcess.csproj|solutionrelative:educationprocess\\pages\\cafedras\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F984E02-635A-4994-8A1E-A24A578F17B7}|EducationProcess\\EducationProcess.csproj|d:\\ders\\kursavoy\\db\\educationprocess\\educationprocess\\pages\\subjects\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F984E02-635A-4994-8A1E-A24A578F17B7}|EducationProcess\\EducationProcess.csproj|solutionrelative:educationprocess\\pages\\subjects\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F984E02-635A-4994-8A1E-A24A578F17B7}|EducationProcess\\EducationProcess.csproj|d:\\ders\\kursavoy\\db\\educationprocess\\educationprocess\\pages\\subjects\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0F984E02-635A-4994-8A1E-A24A578F17B7}|EducationProcess\\EducationProcess.csproj|solutionrelative:educationprocess\\pages\\subjects\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F984E02-635A-4994-8A1E-A24A578F17B7}|EducationProcess\\EducationProcess.csproj|d:\\ders\\kursavoy\\db\\educationprocess\\educationprocess\\pages\\subjects\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F984E02-635A-4994-8A1E-A24A578F17B7}|EducationProcess\\EducationProcess.csproj|solutionrelative:educationprocess\\pages\\subjects\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F984E02-635A-4994-8A1E-A24A578F17B7}|EducationProcess\\EducationProcess.csproj|d:\\ders\\kursavoy\\db\\educationprocess\\educationprocess\\pages\\subjects\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0F984E02-635A-4994-8A1E-A24A578F17B7}|EducationProcess\\EducationProcess.csproj|solutionrelative:educationprocess\\pages\\subjects\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F984E02-635A-4994-8A1E-A24A578F17B7}|EducationProcess\\EducationProcess.csproj|d:\\ders\\kursavoy\\db\\educationprocess\\educationprocess\\pages\\subjects\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F984E02-635A-4994-8A1E-A24A578F17B7}|EducationProcess\\EducationProcess.csproj|solutionrelative:educationprocess\\pages\\subjects\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F984E02-635A-4994-8A1E-A24A578F17B7}|EducationProcess\\EducationProcess.csproj|d:\\ders\\kursavoy\\db\\educationprocess\\educationprocess\\pages\\subjects\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0F984E02-635A-4994-8A1E-A24A578F17B7}|EducationProcess\\EducationProcess.csproj|solutionrelative:educationprocess\\pages\\subjects\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F984E02-635A-4994-8A1E-A24A578F17B7}|EducationProcess\\EducationProcess.csproj|d:\\ders\\kursavoy\\db\\educationprocess\\educationprocess\\pages\\subjects\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F984E02-635A-4994-8A1E-A24A578F17B7}|EducationProcess\\EducationProcess.csproj|solutionrelative:educationprocess\\pages\\subjects\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F984E02-635A-4994-8A1E-A24A578F17B7}|EducationProcess\\EducationProcess.csproj|d:\\ders\\kursavoy\\db\\educationprocess\\educationprocess\\pages\\subjects\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0F984E02-635A-4994-8A1E-A24A578F17B7}|EducationProcess\\EducationProcess.csproj|solutionrelative:educationprocess\\pages\\subjects\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F984E02-635A-4994-8A1E-A24A578F17B7}|EducationProcess\\EducationProcess.csproj|d:\\ders\\kursavoy\\db\\educationprocess\\educationprocess\\pages\\subjects\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F984E02-635A-4994-8A1E-A24A578F17B7}|EducationProcess\\EducationProcess.csproj|solutionrelative:educationprocess\\pages\\subjects\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F984E02-635A-4994-8A1E-A24A578F17B7}|EducationProcess\\EducationProcess.csproj|d:\\ders\\kursavoy\\db\\educationprocess\\educationprocess\\pages\\subjects\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0F984E02-635A-4994-8A1E-A24A578F17B7}|EducationProcess\\EducationProcess.csproj|solutionrelative:educationprocess\\pages\\subjects\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F984E02-635A-4994-8A1E-A24A578F17B7}|EducationProcess\\EducationProcess.csproj|d:\\ders\\kursavoy\\db\\educationprocess\\educationprocess\\pages\\students\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F984E02-635A-4994-8A1E-A24A578F17B7}|EducationProcess\\EducationProcess.csproj|solutionrelative:educationprocess\\pages\\students\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F984E02-635A-4994-8A1E-A24A578F17B7}|EducationProcess\\EducationProcess.csproj|d:\\ders\\kursavoy\\db\\educationprocess\\educationprocess\\pages\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0F984E02-635A-4994-8A1E-A24A578F17B7}|EducationProcess\\EducationProcess.csproj|solutionrelative:educationprocess\\pages\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F984E02-635A-4994-8A1E-A24A578F17B7}|EducationProcess\\EducationProcess.csproj|d:\\ders\\kursavoy\\db\\educationprocess\\educationprocess\\pages\\students\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F984E02-635A-4994-8A1E-A24A578F17B7}|EducationProcess\\EducationProcess.csproj|solutionrelative:educationprocess\\pages\\students\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F984E02-635A-4994-8A1E-A24A578F17B7}|EducationProcess\\EducationProcess.csproj|d:\\ders\\kursavoy\\db\\educationprocess\\educationprocess\\pages\\students\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0F984E02-635A-4994-8A1E-A24A578F17B7}|EducationProcess\\EducationProcess.csproj|solutionrelative:educationprocess\\pages\\students\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F984E02-635A-4994-8A1E-A24A578F17B7}|EducationProcess\\EducationProcess.csproj|d:\\ders\\kursavoy\\db\\educationprocess\\educationprocess\\pages\\students\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F984E02-635A-4994-8A1E-A24A578F17B7}|EducationProcess\\EducationProcess.csproj|solutionrelative:educationprocess\\pages\\students\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F984E02-635A-4994-8A1E-A24A578F17B7}|EducationProcess\\EducationProcess.csproj|d:\\ders\\kursavoy\\db\\educationprocess\\educationprocess\\pages\\students\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0F984E02-635A-4994-8A1E-A24A578F17B7}|EducationProcess\\EducationProcess.csproj|solutionrelative:educationprocess\\pages\\students\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F984E02-635A-4994-8A1E-A24A578F17B7}|EducationProcess\\EducationProcess.csproj|d:\\ders\\kursavoy\\db\\educationprocess\\educationprocess\\pages\\students\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F984E02-635A-4994-8A1E-A24A578F17B7}|EducationProcess\\EducationProcess.csproj|solutionrelative:educationprocess\\pages\\students\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F984E02-635A-4994-8A1E-A24A578F17B7}|EducationProcess\\EducationProcess.csproj|d:\\ders\\kursavoy\\db\\educationprocess\\educationprocess\\pages\\students\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0F984E02-635A-4994-8A1E-A24A578F17B7}|EducationProcess\\EducationProcess.csproj|solutionrelative:educationprocess\\pages\\students\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F984E02-635A-4994-8A1E-A24A578F17B7}|EducationProcess\\EducationProcess.csproj|d:\\ders\\kursavoy\\db\\educationprocess\\educationprocess\\pages\\students\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F984E02-635A-4994-8A1E-A24A578F17B7}|EducationProcess\\EducationProcess.csproj|solutionrelative:educationprocess\\pages\\students\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F984E02-635A-4994-8A1E-A24A578F17B7}|EducationProcess\\EducationProcess.csproj|d:\\ders\\kursavoy\\db\\educationprocess\\educationprocess\\pages\\students\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0F984E02-635A-4994-8A1E-A24A578F17B7}|EducationProcess\\EducationProcess.csproj|solutionrelative:educationprocess\\pages\\students\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F984E02-635A-4994-8A1E-A24A578F17B7}|EducationProcess\\EducationProcess.csproj|d:\\ders\\kursavoy\\db\\educationprocess\\educationprocess\\pages\\teachers\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F984E02-635A-4994-8A1E-A24A578F17B7}|EducationProcess\\EducationProcess.csproj|solutionrelative:educationprocess\\pages\\teachers\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F984E02-635A-4994-8A1E-A24A578F17B7}|EducationProcess\\EducationProcess.csproj|d:\\ders\\kursavoy\\db\\educationprocess\\educationprocess\\pages\\teachers\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0F984E02-635A-4994-8A1E-A24A578F17B7}|EducationProcess\\EducationProcess.csproj|solutionrelative:educationprocess\\pages\\teachers\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F984E02-635A-4994-8A1E-A24A578F17B7}|EducationProcess\\EducationProcess.csproj|d:\\ders\\kursavoy\\db\\educationprocess\\educationprocess\\pages\\teachers\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F984E02-635A-4994-8A1E-A24A578F17B7}|EducationProcess\\EducationProcess.csproj|solutionrelative:educationprocess\\pages\\teachers\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F984E02-635A-4994-8A1E-A24A578F17B7}|EducationProcess\\EducationProcess.csproj|d:\\ders\\kursavoy\\db\\educationprocess\\educationprocess\\pages\\teachers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0F984E02-635A-4994-8A1E-A24A578F17B7}|EducationProcess\\EducationProcess.csproj|solutionrelative:educationprocess\\pages\\teachers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F984E02-635A-4994-8A1E-A24A578F17B7}|EducationProcess\\EducationProcess.csproj|d:\\ders\\kursavoy\\db\\educationprocess\\educationprocess\\pages\\teachers\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F984E02-635A-4994-8A1E-A24A578F17B7}|EducationProcess\\EducationProcess.csproj|solutionrelative:educationprocess\\pages\\teachers\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F984E02-635A-4994-8A1E-A24A578F17B7}|EducationProcess\\EducationProcess.csproj|d:\\ders\\kursavoy\\db\\educationprocess\\educationprocess\\pages\\teachers\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F984E02-635A-4994-8A1E-A24A578F17B7}|EducationProcess\\EducationProcess.csproj|solutionrelative:educationprocess\\pages\\teachers\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F984E02-635A-4994-8A1E-A24A578F17B7}|EducationProcess\\EducationProcess.csproj|d:\\ders\\kursavoy\\db\\educationprocess\\educationprocess\\pages\\teachers\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0F984E02-635A-4994-8A1E-A24A578F17B7}|EducationProcess\\EducationProcess.csproj|solutionrelative:educationprocess\\pages\\teachers\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F984E02-635A-4994-8A1E-A24A578F17B7}|EducationProcess\\EducationProcess.csproj|d:\\ders\\kursavoy\\db\\educationprocess\\educationprocess\\pages\\teachers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0F984E02-635A-4994-8A1E-A24A578F17B7}|EducationProcess\\EducationProcess.csproj|solutionrelative:educationprocess\\pages\\teachers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F984E02-635A-4994-8A1E-A24A578F17B7}|EducationProcess\\EducationProcess.csproj|d:\\ders\\kursavoy\\db\\educationprocess\\educationprocess\\pages\\teachers\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F984E02-635A-4994-8A1E-A24A578F17B7}|EducationProcess\\EducationProcess.csproj|solutionrelative:educationprocess\\pages\\teachers\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F984E02-635A-4994-8A1E-A24A578F17B7}|EducationProcess\\EducationProcess.csproj|d:\\ders\\kursavoy\\db\\educationprocess\\educationprocess\\pages\\teachers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0F984E02-635A-4994-8A1E-A24A578F17B7}|EducationProcess\\EducationProcess.csproj|solutionrelative:educationprocess\\pages\\teachers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F984E02-635A-4994-8A1E-A24A578F17B7}|EducationProcess\\EducationProcess.csproj|d:\\ders\\kursavoy\\db\\educationprocess\\educationprocess\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F984E02-635A-4994-8A1E-A24A578F17B7}|EducationProcess\\EducationProcess.csproj|solutionrelative:educationprocess\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F984E02-635A-4994-8A1E-A24A578F17B7}|EducationProcess\\EducationProcess.csproj|d:\\ders\\kursavoy\\db\\educationprocess\\educationprocess\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F984E02-635A-4994-8A1E-A24A578F17B7}|EducationProcess\\EducationProcess.csproj|solutionrelative:educationprocess\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F984E02-635A-4994-8A1E-A24A578F17B7}|EducationProcess\\EducationProcess.csproj|d:\\ders\\kursavoy\\db\\educationprocess\\educationprocess\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F984E02-635A-4994-8A1E-A24A578F17B7}|EducationProcess\\EducationProcess.csproj|solutionrelative:educationprocess\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F984E02-635A-4994-8A1E-A24A578F17B7}|EducationProcess\\EducationProcess.csproj|d:\\ders\\kursavoy\\db\\educationprocess\\educationprocess\\tedrisprosesicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F984E02-635A-4994-8A1E-A24A578F17B7}|EducationProcess\\EducationProcess.csproj|solutionrelative:educationprocess\\tedrisprosesicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F984E02-635A-4994-8A1E-A24A578F17B7}|EducationProcess\\EducationProcess.csproj|d:\\ders\\kursavoy\\db\\educationprocess\\educationprocess\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0F984E02-635A-4994-8A1E-A24A578F17B7}|EducationProcess\\EducationProcess.csproj|solutionrelative:educationprocess\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F984E02-635A-4994-8A1E-A24A578F17B7}|EducationProcess\\EducationProcess.csproj|d:\\ders\\kursavoy\\db\\educationprocess\\educationprocess\\models\\subjecttecher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F984E02-635A-4994-8A1E-A24A578F17B7}|EducationProcess\\EducationProcess.csproj|solutionrelative:educationprocess\\models\\subjecttecher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F984E02-635A-4994-8A1E-A24A578F17B7}|EducationProcess\\EducationProcess.csproj|d:\\ders\\kursavoy\\db\\educationprocess\\educationprocess\\models\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F984E02-635A-4994-8A1E-A24A578F17B7}|EducationProcess\\EducationProcess.csproj|solutionrelative:educationprocess\\models\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F984E02-635A-4994-8A1E-A24A578F17B7}|EducationProcess\\EducationProcess.csproj|d:\\ders\\kursavoy\\db\\educationprocess\\educationprocess\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F984E02-635A-4994-8A1E-A24A578F17B7}|EducationProcess\\EducationProcess.csproj|solutionrelative:educationprocess\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F984E02-635A-4994-8A1E-A24A578F17B7}|EducationProcess\\EducationProcess.csproj|d:\\ders\\kursavoy\\db\\educationprocess\\educationprocess\\models\\specialization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F984E02-635A-4994-8A1E-A24A578F17B7}|EducationProcess\\EducationProcess.csproj|solutionrelative:educationprocess\\models\\specialization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F984E02-635A-4994-8A1E-A24A578F17B7}|EducationProcess\\EducationProcess.csproj|d:\\ders\\kursavoy\\db\\educationprocess\\educationprocess\\models\\faculty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F984E02-635A-4994-8A1E-A24A578F17B7}|EducationProcess\\EducationProcess.csproj|solutionrelative:educationprocess\\models\\faculty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F984E02-635A-4994-8A1E-A24A578F17B7}|EducationProcess\\EducationProcess.csproj|d:\\ders\\kursavoy\\db\\educationprocess\\educationprocess\\models\\cafedra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F984E02-635A-4994-8A1E-A24A578F17B7}|EducationProcess\\EducationProcess.csproj|solutionrelative:educationprocess\\models\\cafedra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "D:\\ders\\kursavoy\\DB\\EducationProcess\\EducationProcess\\Pages\\Faculties\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "EducationProcess\\Pages\\Faculties\\Index.cshtml.cs",
+              "ToolTip": "D:\\ders\\kursavoy\\DB\\EducationProcess\\EducationProcess\\Pages\\Faculties\\Index.cshtml.cs",
+              "RelativeToolTip": "EducationProcess\\Pages\\Faculties\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T17:23:13.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ders\\kursavoy\\DB\\EducationProcess\\EducationProcess\\Pages\\Faculties\\Index.cshtml",
+              "RelativeDocumentMoniker": "EducationProcess\\Pages\\Faculties\\Index.cshtml",
+              "ToolTip": "D:\\ders\\kursavoy\\DB\\EducationProcess\\EducationProcess\\Pages\\Faculties\\Index.cshtml",
+              "RelativeToolTip": "EducationProcess\\Pages\\Faculties\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-02T17:23:13.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "D:\\ders\\kursavoy\\DB\\EducationProcess\\EducationProcess\\Pages\\Faculties\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "EducationProcess\\Pages\\Faculties\\Delete.cshtml.cs",
+              "ToolTip": "D:\\ders\\kursavoy\\DB\\EducationProcess\\EducationProcess\\Pages\\Faculties\\Delete.cshtml.cs",
+              "RelativeToolTip": "EducationProcess\\Pages\\Faculties\\Delete.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T17:23:13.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\ders\\kursavoy\\DB\\EducationProcess\\EducationProcess\\Pages\\Faculties\\Delete.cshtml",
+              "RelativeDocumentMoniker": "EducationProcess\\Pages\\Faculties\\Delete.cshtml",
+              "ToolTip": "D:\\ders\\kursavoy\\DB\\EducationProcess\\EducationProcess\\Pages\\Faculties\\Delete.cshtml",
+              "RelativeToolTip": "EducationProcess\\Pages\\Faculties\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-02T17:23:13.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "D:\\ders\\kursavoy\\DB\\EducationProcess\\EducationProcess\\Pages\\Faculties\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "EducationProcess\\Pages\\Faculties\\Details.cshtml.cs",
+              "ToolTip": "D:\\ders\\kursavoy\\DB\\EducationProcess\\EducationProcess\\Pages\\Faculties\\Details.cshtml.cs",
+              "RelativeToolTip": "EducationProcess\\Pages\\Faculties\\Details.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T17:23:13.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\ders\\kursavoy\\DB\\EducationProcess\\EducationProcess\\Pages\\Faculties\\Details.cshtml",
+              "RelativeDocumentMoniker": "EducationProcess\\Pages\\Faculties\\Details.cshtml",
+              "ToolTip": "D:\\ders\\kursavoy\\DB\\EducationProcess\\EducationProcess\\Pages\\Faculties\\Details.cshtml",
+              "RelativeToolTip": "EducationProcess\\Pages\\Faculties\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-02T17:23:13.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "D:\\ders\\kursavoy\\DB\\EducationProcess\\EducationProcess\\Pages\\Faculties\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "EducationProcess\\Pages\\Faculties\\Edit.cshtml.cs",
+              "ToolTip": "D:\\ders\\kursavoy\\DB\\EducationProcess\\EducationProcess\\Pages\\Faculties\\Edit.cshtml.cs",
+              "RelativeToolTip": "EducationProcess\\Pages\\Faculties\\Edit.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T17:23:13.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\ders\\kursavoy\\DB\\EducationProcess\\EducationProcess\\Pages\\Faculties\\Edit.cshtml",
+              "RelativeDocumentMoniker": "EducationProcess\\Pages\\Faculties\\Edit.cshtml",
+              "ToolTip": "D:\\ders\\kursavoy\\DB\\EducationProcess\\EducationProcess\\Pages\\Faculties\\Edit.cshtml",
+              "RelativeToolTip": "EducationProcess\\Pages\\Faculties\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-02T17:23:12.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "D:\\ders\\kursavoy\\DB\\EducationProcess\\EducationProcess\\Pages\\Faculties\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "EducationProcess\\Pages\\Faculties\\Create.cshtml.cs",
+              "ToolTip": "D:\\ders\\kursavoy\\DB\\EducationProcess\\EducationProcess\\Pages\\Faculties\\Create.cshtml.cs",
+              "RelativeToolTip": "EducationProcess\\Pages\\Faculties\\Create.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T17:23:12.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\ders\\kursavoy\\DB\\EducationProcess\\EducationProcess\\Pages\\Faculties\\Create.cshtml",
+              "RelativeDocumentMoniker": "EducationProcess\\Pages\\Faculties\\Create.cshtml",
+              "ToolTip": "D:\\ders\\kursavoy\\DB\\EducationProcess\\EducationProcess\\Pages\\Faculties\\Create.cshtml",
+              "RelativeToolTip": "EducationProcess\\Pages\\Faculties\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-02T17:23:12.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "D:\\ders\\kursavoy\\DB\\EducationProcess\\EducationProcess\\Pages\\Grades\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "EducationProcess\\Pages\\Grades\\Index.cshtml.cs",
+              "ToolTip": "D:\\ders\\kursavoy\\DB\\EducationProcess\\EducationProcess\\Pages\\Grades\\Index.cshtml.cs",
+              "RelativeToolTip": "EducationProcess\\Pages\\Grades\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T17:22:35.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ders\\kursavoy\\DB\\EducationProcess\\EducationProcess\\Pages\\Grades\\Index.cshtml",
+              "RelativeDocumentMoniker": "EducationProcess\\Pages\\Grades\\Index.cshtml",
+              "ToolTip": "D:\\ders\\kursavoy\\DB\\EducationProcess\\EducationProcess\\Pages\\Grades\\Index.cshtml",
+              "RelativeToolTip": "EducationProcess\\Pages\\Grades\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-02T17:22:35.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "D:\\ders\\kursavoy\\DB\\EducationProcess\\EducationProcess\\Pages\\Grades\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "EducationProcess\\Pages\\Grades\\Delete.cshtml.cs",
+              "ToolTip": "D:\\ders\\kursavoy\\DB\\EducationProcess\\EducationProcess\\Pages\\Grades\\Delete.cshtml.cs",
+              "RelativeToolTip": "EducationProcess\\Pages\\Grades\\Delete.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T17:22:35.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\ders\\kursavoy\\DB\\EducationProcess\\EducationProcess\\Pages\\Grades\\Delete.cshtml",
+              "RelativeDocumentMoniker": "EducationProcess\\Pages\\Grades\\Delete.cshtml",
+              "ToolTip": "D:\\ders\\kursavoy\\DB\\EducationProcess\\EducationProcess\\Pages\\Grades\\Delete.cshtml",
+              "RelativeToolTip": "EducationProcess\\Pages\\Grades\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-02T17:22:35.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "D:\\ders\\kursavoy\\DB\\EducationProcess\\EducationProcess\\Pages\\Grades\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "EducationProcess\\Pages\\Grades\\Details.cshtml.cs",
+              "ToolTip": "D:\\ders\\kursavoy\\DB\\EducationProcess\\EducationProcess\\Pages\\Grades\\Details.cshtml.cs",
+              "RelativeToolTip": "EducationProcess\\Pages\\Grades\\Details.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T17:22:34.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\ders\\kursavoy\\DB\\EducationProcess\\EducationProcess\\Pages\\Grades\\Details.cshtml",
+              "RelativeDocumentMoniker": "EducationProcess\\Pages\\Grades\\Details.cshtml",
+              "ToolTip": "D:\\ders\\kursavoy\\DB\\EducationProcess\\EducationProcess\\Pages\\Grades\\Details.cshtml",
+              "RelativeToolTip": "EducationProcess\\Pages\\Grades\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-02T17:22:34.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "D:\\ders\\kursavoy\\DB\\EducationProcess\\EducationProcess\\Pages\\Grades\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "EducationProcess\\Pages\\Grades\\Edit.cshtml.cs",
+              "ToolTip": "D:\\ders\\kursavoy\\DB\\EducationProcess\\EducationProcess\\Pages\\Grades\\Edit.cshtml.cs",
+              "RelativeToolTip": "EducationProcess\\Pages\\Grades\\Edit.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T17:22:34.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\ders\\kursavoy\\DB\\EducationProcess\\EducationProcess\\Pages\\Grades\\Edit.cshtml",
+              "RelativeDocumentMoniker": "EducationProcess\\Pages\\Grades\\Edit.cshtml",
+              "ToolTip": "D:\\ders\\kursavoy\\DB\\EducationProcess\\EducationProcess\\Pages\\Grades\\Edit.cshtml",
+              "RelativeToolTip": "EducationProcess\\Pages\\Grades\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-02T17:22:34.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "D:\\ders\\kursavoy\\DB\\EducationProcess\\EducationProcess\\Pages\\Grades\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "EducationProcess\\Pages\\Grades\\Create.cshtml.cs",
+              "ToolTip": "D:\\ders\\kursavoy\\DB\\EducationProcess\\EducationProcess\\Pages\\Grades\\Create.cshtml.cs",
+              "RelativeToolTip": "EducationProcess\\Pages\\Grades\\Create.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T17:22:34.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\ders\\kursavoy\\DB\\EducationProcess\\EducationProcess\\Pages\\Grades\\Create.cshtml",
+              "RelativeDocumentMoniker": "EducationProcess\\Pages\\Grades\\Create.cshtml",
+              "ToolTip": "D:\\ders\\kursavoy\\DB\\EducationProcess\\EducationProcess\\Pages\\Grades\\Create.cshtml",
+              "RelativeToolTip": "EducationProcess\\Pages\\Grades\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-02T17:22:34.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "D:\\ders\\kursavoy\\DB\\EducationProcess\\EducationProcess\\Pages\\Cafedras\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "EducationProcess\\Pages\\Cafedras\\Index.cshtml.cs",
+              "ToolTip": "D:\\ders\\kursavoy\\DB\\EducationProcess\\EducationProcess\\Pages\\Cafedras\\Index.cshtml.cs",
+              "RelativeToolTip": "EducationProcess\\Pages\\Cafedras\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T17:18:39.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ders\\kursavoy\\DB\\EducationProcess\\EducationProcess\\Pages\\Cafedras\\Index.cshtml",
+              "RelativeDocumentMoniker": "EducationProcess\\Pages\\Cafedras\\Index.cshtml",
+              "ToolTip": "D:\\ders\\kursavoy\\DB\\EducationProcess\\EducationProcess\\Pages\\Cafedras\\Index.cshtml",
+              "RelativeToolTip": "EducationProcess\\Pages\\Cafedras\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-02T17:18:39.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "D:\\ders\\kursavoy\\DB\\EducationProcess\\EducationProcess\\Pages\\Cafedras\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "EducationProcess\\Pages\\Cafedras\\Delete.cshtml.cs",
+              "ToolTip": "D:\\ders\\kursavoy\\DB\\EducationProcess\\EducationProcess\\Pages\\Cafedras\\Delete.cshtml.cs",
+              "RelativeToolTip": "EducationProcess\\Pages\\Cafedras\\Delete.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T17:18:39.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\ders\\kursavoy\\DB\\EducationProcess\\EducationProcess\\Pages\\Cafedras\\Delete.cshtml",
+              "RelativeDocumentMoniker": "EducationProcess\\Pages\\Cafedras\\Delete.cshtml",
+              "ToolTip": "D:\\ders\\kursavoy\\DB\\EducationProcess\\EducationProcess\\Pages\\Cafedras\\Delete.cshtml",
+              "RelativeToolTip": "EducationProcess\\Pages\\Cafedras\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-02T17:18:38.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "D:\\ders\\kursavoy\\DB\\EducationProcess\\EducationProcess\\Pages\\Cafedras\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "EducationProcess\\Pages\\Cafedras\\Details.cshtml.cs",
+              "ToolTip": "D:\\ders\\kursavoy\\DB\\EducationProcess\\EducationProcess\\Pages\\Cafedras\\Details.cshtml.cs",
+              "RelativeToolTip": "EducationProcess\\Pages\\Cafedras\\Details.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T17:18:38.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\ders\\kursavoy\\DB\\EducationProcess\\EducationProcess\\Pages\\Cafedras\\Details.cshtml",
+              "RelativeDocumentMoniker": "EducationProcess\\Pages\\Cafedras\\Details.cshtml",
+              "ToolTip": "D:\\ders\\kursavoy\\DB\\EducationProcess\\EducationProcess\\Pages\\Cafedras\\Details.cshtml",
+              "RelativeToolTip": "EducationProcess\\Pages\\Cafedras\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-02T17:18:38.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "D:\\ders\\kursavoy\\DB\\EducationProcess\\EducationProcess\\Pages\\Cafedras\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "EducationProcess\\Pages\\Cafedras\\Edit.cshtml.cs",
+              "ToolTip": "D:\\ders\\kursavoy\\DB\\EducationProcess\\EducationProcess\\Pages\\Cafedras\\Edit.cshtml.cs",
+              "RelativeToolTip": "EducationProcess\\Pages\\Cafedras\\Edit.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T17:18:38.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\ders\\kursavoy\\DB\\EducationProcess\\EducationProcess\\Pages\\Cafedras\\Edit.cshtml",
+              "RelativeDocumentMoniker": "EducationProcess\\Pages\\Cafedras\\Edit.cshtml",
+              "ToolTip": "D:\\ders\\kursavoy\\DB\\EducationProcess\\EducationProcess\\Pages\\Cafedras\\Edit.cshtml",
+              "RelativeToolTip": "EducationProcess\\Pages\\Cafedras\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-02T17:18:38.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "D:\\ders\\kursavoy\\DB\\EducationProcess\\EducationProcess\\Pages\\Cafedras\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "EducationProcess\\Pages\\Cafedras\\Create.cshtml.cs",
+              "ToolTip": "D:\\ders\\kursavoy\\DB\\EducationProcess\\EducationProcess\\Pages\\Cafedras\\Create.cshtml.cs",
+              "RelativeToolTip": "EducationProcess\\Pages\\Cafedras\\Create.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T17:18:38.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ders\\kursavoy\\DB\\EducationProcess\\EducationProcess\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "EducationProcess\\Pages\\Index.cshtml",
+              "ToolTip": "D:\\ders\\kursavoy\\DB\\EducationProcess\\EducationProcess\\Pages\\Index.cshtml",
+              "RelativeToolTip": "EducationProcess\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-01T15:47:27.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\ders\\kursavoy\\DB\\EducationProcess\\EducationProcess\\Pages\\Cafedras\\Create.cshtml",
+              "RelativeDocumentMoniker": "EducationProcess\\Pages\\Cafedras\\Create.cshtml",
+              "ToolTip": "D:\\ders\\kursavoy\\DB\\EducationProcess\\EducationProcess\\Pages\\Cafedras\\Create.cshtml",
+              "RelativeToolTip": "EducationProcess\\Pages\\Cafedras\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-02T17:18:38.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "D:\\ders\\kursavoy\\DB\\EducationProcess\\EducationProcess\\Pages\\Subjects\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "EducationProcess\\Pages\\Subjects\\Index.cshtml.cs",
+              "ToolTip": "D:\\ders\\kursavoy\\DB\\EducationProcess\\EducationProcess\\Pages\\Subjects\\Index.cshtml.cs",
+              "RelativeToolTip": "EducationProcess\\Pages\\Subjects\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T17:13:40.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ders\\kursavoy\\DB\\EducationProcess\\EducationProcess\\Pages\\Subjects\\Index.cshtml",
+              "RelativeDocumentMoniker": "EducationProcess\\Pages\\Subjects\\Index.cshtml",
+              "ToolTip": "D:\\ders\\kursavoy\\DB\\EducationProcess\\EducationProcess\\Pages\\Subjects\\Index.cshtml",
+              "RelativeToolTip": "EducationProcess\\Pages\\Subjects\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-02T17:13:40.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "D:\\ders\\kursavoy\\DB\\EducationProcess\\EducationProcess\\Pages\\Subjects\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "EducationProcess\\Pages\\Subjects\\Delete.cshtml.cs",
+              "ToolTip": "D:\\ders\\kursavoy\\DB\\EducationProcess\\EducationProcess\\Pages\\Subjects\\Delete.cshtml.cs",
+              "RelativeToolTip": "EducationProcess\\Pages\\Subjects\\Delete.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T17:13:40.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\ders\\kursavoy\\DB\\EducationProcess\\EducationProcess\\Pages\\Subjects\\Delete.cshtml",
+              "RelativeDocumentMoniker": "EducationProcess\\Pages\\Subjects\\Delete.cshtml",
+              "ToolTip": "D:\\ders\\kursavoy\\DB\\EducationProcess\\EducationProcess\\Pages\\Subjects\\Delete.cshtml",
+              "RelativeToolTip": "EducationProcess\\Pages\\Subjects\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-02T17:13:40.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "D:\\ders\\kursavoy\\DB\\EducationProcess\\EducationProcess\\Pages\\Subjects\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "EducationProcess\\Pages\\Subjects\\Details.cshtml.cs",
+              "ToolTip": "D:\\ders\\kursavoy\\DB\\EducationProcess\\EducationProcess\\Pages\\Subjects\\Details.cshtml.cs",
+              "RelativeToolTip": "EducationProcess\\Pages\\Subjects\\Details.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T17:13:39.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\ders\\kursavoy\\DB\\EducationProcess\\EducationProcess\\Pages\\Subjects\\Details.cshtml",
+              "RelativeDocumentMoniker": "EducationProcess\\Pages\\Subjects\\Details.cshtml",
+              "ToolTip": "D:\\ders\\kursavoy\\DB\\EducationProcess\\EducationProcess\\Pages\\Subjects\\Details.cshtml",
+              "RelativeToolTip": "EducationProcess\\Pages\\Subjects\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-02T17:13:39.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "D:\\ders\\kursavoy\\DB\\EducationProcess\\EducationProcess\\Pages\\Subjects\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "EducationProcess\\Pages\\Subjects\\Edit.cshtml.cs",
+              "ToolTip": "D:\\ders\\kursavoy\\DB\\EducationProcess\\EducationProcess\\Pages\\Subjects\\Edit.cshtml.cs",
+              "RelativeToolTip": "EducationProcess\\Pages\\Subjects\\Edit.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T17:13:39.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\ders\\kursavoy\\DB\\EducationProcess\\EducationProcess\\Pages\\Subjects\\Edit.cshtml",
+              "RelativeDocumentMoniker": "EducationProcess\\Pages\\Subjects\\Edit.cshtml",
+              "ToolTip": "D:\\ders\\kursavoy\\DB\\EducationProcess\\EducationProcess\\Pages\\Subjects\\Edit.cshtml",
+              "RelativeToolTip": "EducationProcess\\Pages\\Subjects\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-02T17:13:39.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "D:\\ders\\kursavoy\\DB\\EducationProcess\\EducationProcess\\Pages\\Subjects\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "EducationProcess\\Pages\\Subjects\\Create.cshtml.cs",
+              "ToolTip": "D:\\ders\\kursavoy\\DB\\EducationProcess\\EducationProcess\\Pages\\Subjects\\Create.cshtml.cs",
+              "RelativeToolTip": "EducationProcess\\Pages\\Subjects\\Create.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T17:13:39.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\ders\\kursavoy\\DB\\EducationProcess\\EducationProcess\\Pages\\Subjects\\Create.cshtml",
+              "RelativeDocumentMoniker": "EducationProcess\\Pages\\Subjects\\Create.cshtml",
+              "ToolTip": "D:\\ders\\kursavoy\\DB\\EducationProcess\\EducationProcess\\Pages\\Subjects\\Create.cshtml",
+              "RelativeToolTip": "EducationProcess\\Pages\\Subjects\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-02T17:13:39.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "D:\\ders\\kursavoy\\DB\\EducationProcess\\EducationProcess\\Pages\\Students\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "EducationProcess\\Pages\\Students\\Index.cshtml.cs",
+              "ToolTip": "D:\\ders\\kursavoy\\DB\\EducationProcess\\EducationProcess\\Pages\\Students\\Index.cshtml.cs",
+              "RelativeToolTip": "EducationProcess\\Pages\\Students\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T17:07:38.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ders\\kursavoy\\DB\\EducationProcess\\EducationProcess\\Pages\\Students\\Index.cshtml",
+              "RelativeDocumentMoniker": "EducationProcess\\Pages\\Students\\Index.cshtml",
+              "ToolTip": "D:\\ders\\kursavoy\\DB\\EducationProcess\\EducationProcess\\Pages\\Students\\Index.cshtml",
+              "RelativeToolTip": "EducationProcess\\Pages\\Students\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-02T17:07:38.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "D:\\ders\\kursavoy\\DB\\EducationProcess\\EducationProcess\\Pages\\Students\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "EducationProcess\\Pages\\Students\\Delete.cshtml.cs",
+              "ToolTip": "D:\\ders\\kursavoy\\DB\\EducationProcess\\EducationProcess\\Pages\\Students\\Delete.cshtml.cs",
+              "RelativeToolTip": "EducationProcess\\Pages\\Students\\Delete.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T17:07:38.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\ders\\kursavoy\\DB\\EducationProcess\\EducationProcess\\Pages\\Students\\Delete.cshtml",
+              "RelativeDocumentMoniker": "EducationProcess\\Pages\\Students\\Delete.cshtml",
+              "ToolTip": "D:\\ders\\kursavoy\\DB\\EducationProcess\\EducationProcess\\Pages\\Students\\Delete.cshtml",
+              "RelativeToolTip": "EducationProcess\\Pages\\Students\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-02T17:07:38.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "D:\\ders\\kursavoy\\DB\\EducationProcess\\EducationProcess\\Pages\\Students\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "EducationProcess\\Pages\\Students\\Details.cshtml.cs",
+              "ToolTip": "D:\\ders\\kursavoy\\DB\\EducationProcess\\EducationProcess\\Pages\\Students\\Details.cshtml.cs",
+              "RelativeToolTip": "EducationProcess\\Pages\\Students\\Details.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T17:07:38.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\ders\\kursavoy\\DB\\EducationProcess\\EducationProcess\\Pages\\Students\\Details.cshtml",
+              "RelativeDocumentMoniker": "EducationProcess\\Pages\\Students\\Details.cshtml",
+              "ToolTip": "D:\\ders\\kursavoy\\DB\\EducationProcess\\EducationProcess\\Pages\\Students\\Details.cshtml",
+              "RelativeToolTip": "EducationProcess\\Pages\\Students\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-02T17:07:38.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "D:\\ders\\kursavoy\\DB\\EducationProcess\\EducationProcess\\Pages\\Students\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "EducationProcess\\Pages\\Students\\Edit.cshtml.cs",
+              "ToolTip": "D:\\ders\\kursavoy\\DB\\EducationProcess\\EducationProcess\\Pages\\Students\\Edit.cshtml.cs",
+              "RelativeToolTip": "EducationProcess\\Pages\\Students\\Edit.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T17:07:38.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\ders\\kursavoy\\DB\\EducationProcess\\EducationProcess\\Pages\\Students\\Edit.cshtml",
+              "RelativeDocumentMoniker": "EducationProcess\\Pages\\Students\\Edit.cshtml",
+              "ToolTip": "D:\\ders\\kursavoy\\DB\\EducationProcess\\EducationProcess\\Pages\\Students\\Edit.cshtml",
+              "RelativeToolTip": "EducationProcess\\Pages\\Students\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-02T17:07:38.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "D:\\ders\\kursavoy\\DB\\EducationProcess\\EducationProcess\\Pages\\Students\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "EducationProcess\\Pages\\Students\\Create.cshtml.cs",
+              "ToolTip": "D:\\ders\\kursavoy\\DB\\EducationProcess\\EducationProcess\\Pages\\Students\\Create.cshtml.cs",
+              "RelativeToolTip": "EducationProcess\\Pages\\Students\\Create.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T17:07:37.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\ders\\kursavoy\\DB\\EducationProcess\\EducationProcess\\Pages\\Students\\Create.cshtml",
+              "RelativeDocumentMoniker": "EducationProcess\\Pages\\Students\\Create.cshtml",
+              "ToolTip": "D:\\ders\\kursavoy\\DB\\EducationProcess\\EducationProcess\\Pages\\Students\\Create.cshtml",
+              "RelativeToolTip": "EducationProcess\\Pages\\Students\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-02T17:07:37.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "D:\\ders\\kursavoy\\DB\\EducationProcess\\EducationProcess\\Pages\\Teachers\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "EducationProcess\\Pages\\Teachers\\Index.cshtml.cs",
+              "ToolTip": "D:\\ders\\kursavoy\\DB\\EducationProcess\\EducationProcess\\Pages\\Teachers\\Index.cshtml.cs",
+              "RelativeToolTip": "EducationProcess\\Pages\\Teachers\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T17:05:43.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ders\\kursavoy\\DB\\EducationProcess\\EducationProcess\\Pages\\Teachers\\Index.cshtml",
+              "RelativeDocumentMoniker": "EducationProcess\\Pages\\Teachers\\Index.cshtml",
+              "ToolTip": "D:\\ders\\kursavoy\\DB\\EducationProcess\\EducationProcess\\Pages\\Teachers\\Index.cshtml",
+              "RelativeToolTip": "EducationProcess\\Pages\\Teachers\\Index.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-02T17:05:43.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "D:\\ders\\kursavoy\\DB\\EducationProcess\\EducationProcess\\Pages\\Teachers\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "EducationProcess\\Pages\\Teachers\\Delete.cshtml.cs",
+              "ToolTip": "D:\\ders\\kursavoy\\DB\\EducationProcess\\EducationProcess\\Pages\\Teachers\\Delete.cshtml.cs",
+              "RelativeToolTip": "EducationProcess\\Pages\\Teachers\\Delete.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T17:05:43.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\ders\\kursavoy\\DB\\EducationProcess\\EducationProcess\\Pages\\Teachers\\Delete.cshtml",
+              "RelativeDocumentMoniker": "EducationProcess\\Pages\\Teachers\\Delete.cshtml",
+              "ToolTip": "D:\\ders\\kursavoy\\DB\\EducationProcess\\EducationProcess\\Pages\\Teachers\\Delete.cshtml",
+              "RelativeToolTip": "EducationProcess\\Pages\\Teachers\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-02T17:05:43.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "D:\\ders\\kursavoy\\DB\\EducationProcess\\EducationProcess\\Pages\\Teachers\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "EducationProcess\\Pages\\Teachers\\Details.cshtml.cs",
+              "ToolTip": "D:\\ders\\kursavoy\\DB\\EducationProcess\\EducationProcess\\Pages\\Teachers\\Details.cshtml.cs",
+              "RelativeToolTip": "EducationProcess\\Pages\\Teachers\\Details.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T17:05:43.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\ders\\kursavoy\\DB\\EducationProcess\\EducationProcess\\Pages\\Teachers\\Details.cshtml",
+              "RelativeDocumentMoniker": "EducationProcess\\Pages\\Teachers\\Details.cshtml",
+              "ToolTip": "D:\\ders\\kursavoy\\DB\\EducationProcess\\EducationProcess\\Pages\\Teachers\\Details.cshtml",
+              "RelativeToolTip": "EducationProcess\\Pages\\Teachers\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-02T17:05:43.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "D:\\ders\\kursavoy\\DB\\EducationProcess\\EducationProcess\\Pages\\Teachers\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "EducationProcess\\Pages\\Teachers\\Edit.cshtml.cs",
+              "ToolTip": "D:\\ders\\kursavoy\\DB\\EducationProcess\\EducationProcess\\Pages\\Teachers\\Edit.cshtml.cs",
+              "RelativeToolTip": "EducationProcess\\Pages\\Teachers\\Edit.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T17:05:42.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\ders\\kursavoy\\DB\\EducationProcess\\EducationProcess\\Pages\\Teachers\\Edit.cshtml",
+              "RelativeDocumentMoniker": "EducationProcess\\Pages\\Teachers\\Edit.cshtml",
+              "ToolTip": "D:\\ders\\kursavoy\\DB\\EducationProcess\\EducationProcess\\Pages\\Teachers\\Edit.cshtml",
+              "RelativeToolTip": "EducationProcess\\Pages\\Teachers\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-02T17:05:42.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "D:\\ders\\kursavoy\\DB\\EducationProcess\\EducationProcess\\Pages\\Teachers\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "EducationProcess\\Pages\\Teachers\\Create.cshtml.cs",
+              "ToolTip": "D:\\ders\\kursavoy\\DB\\EducationProcess\\EducationProcess\\Pages\\Teachers\\Create.cshtml.cs",
+              "RelativeToolTip": "EducationProcess\\Pages\\Teachers\\Create.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T17:05:42.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\ders\\kursavoy\\DB\\EducationProcess\\EducationProcess\\Pages\\Teachers\\Create.cshtml",
+              "RelativeDocumentMoniker": "EducationProcess\\Pages\\Teachers\\Create.cshtml",
+              "ToolTip": "D:\\ders\\kursavoy\\DB\\EducationProcess\\EducationProcess\\Pages\\Teachers\\Create.cshtml",
+              "RelativeToolTip": "EducationProcess\\Pages\\Teachers\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-02T17:05:42.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "D:\\ders\\kursavoy\\DB\\EducationProcess\\EducationProcess\\Models\\Teacher.cs",
+              "RelativeDocumentMoniker": "EducationProcess\\Models\\Teacher.cs",
+              "ToolTip": "D:\\ders\\kursavoy\\DB\\EducationProcess\\EducationProcess\\Models\\Teacher.cs",
+              "RelativeToolTip": "EducationProcess\\Models\\Teacher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T15:48:41.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "Subject.cs",
+              "DocumentMoniker": "D:\\ders\\kursavoy\\DB\\EducationProcess\\EducationProcess\\Models\\Subject.cs",
+              "RelativeDocumentMoniker": "EducationProcess\\Models\\Subject.cs",
+              "ToolTip": "D:\\ders\\kursavoy\\DB\\EducationProcess\\EducationProcess\\Models\\Subject.cs",
+              "RelativeToolTip": "EducationProcess\\Models\\Subject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T15:48:27.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\ders\\kursavoy\\DB\\EducationProcess\\EducationProcess\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "EducationProcess\\Models\\Student.cs",
+              "ToolTip": "D:\\ders\\kursavoy\\DB\\EducationProcess\\EducationProcess\\Models\\Student.cs",
+              "RelativeToolTip": "EducationProcess\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T15:48:26.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "Specialization.cs",
+              "DocumentMoniker": "D:\\ders\\kursavoy\\DB\\EducationProcess\\EducationProcess\\Models\\Specialization.cs",
+              "RelativeDocumentMoniker": "EducationProcess\\Models\\Specialization.cs",
+              "ToolTip": "D:\\ders\\kursavoy\\DB\\EducationProcess\\EducationProcess\\Models\\Specialization.cs",
+              "RelativeToolTip": "EducationProcess\\Models\\Specialization.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T15:48:18.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "Faculty.cs",
+              "DocumentMoniker": "D:\\ders\\kursavoy\\DB\\EducationProcess\\EducationProcess\\Models\\Faculty.cs",
+              "RelativeDocumentMoniker": "EducationProcess\\Models\\Faculty.cs",
+              "ToolTip": "D:\\ders\\kursavoy\\DB\\EducationProcess\\EducationProcess\\Models\\Faculty.cs",
+              "RelativeToolTip": "EducationProcess\\Models\\Faculty.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T15:48:13.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "Cafedra.cs",
+              "DocumentMoniker": "D:\\ders\\kursavoy\\DB\\EducationProcess\\EducationProcess\\Models\\Cafedra.cs",
+              "RelativeDocumentMoniker": "EducationProcess\\Models\\Cafedra.cs",
+              "ToolTip": "D:\\ders\\kursavoy\\DB\\EducationProcess\\EducationProcess\\Models\\Cafedra.cs",
+              "RelativeToolTip": "EducationProcess\\Models\\Cafedra.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T15:48:02.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "D:\\ders\\kursavoy\\DB\\EducationProcess\\EducationProcess\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "EducationProcess\\Pages\\Index.cshtml.cs",
+              "ToolTip": "D:\\ders\\kursavoy\\DB\\EducationProcess\\EducationProcess\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "EducationProcess\\Pages\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T15:47:30.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "TedrisprosesiContext.cs",
+              "DocumentMoniker": "D:\\ders\\kursavoy\\DB\\EducationProcess\\EducationProcess\\TedrisprosesiContext.cs",
+              "RelativeDocumentMoniker": "EducationProcess\\TedrisprosesiContext.cs",
+              "ToolTip": "D:\\ders\\kursavoy\\DB\\EducationProcess\\EducationProcess\\TedrisprosesiContext.cs",
+              "RelativeToolTip": "EducationProcess\\TedrisprosesiContext.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAADwvyQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T15:46:13.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ders\\kursavoy\\DB\\EducationProcess\\EducationProcess\\Program.cs",
+              "RelativeDocumentMoniker": "EducationProcess\\Program.cs",
+              "ToolTip": "D:\\ders\\kursavoy\\DB\\EducationProcess\\EducationProcess\\Program.cs",
+              "RelativeToolTip": "EducationProcess\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T15:41:44.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "Subjecttecher.cs",
+              "DocumentMoniker": "D:\\ders\\kursavoy\\DB\\EducationProcess\\EducationProcess\\Models\\Subjecttecher.cs",
+              "RelativeDocumentMoniker": "EducationProcess\\Models\\Subjecttecher.cs",
+              "ToolTip": "D:\\ders\\kursavoy\\DB\\EducationProcess\\EducationProcess\\Models\\Subjecttecher.cs",
+              "RelativeToolTip": "EducationProcess\\Models\\Subjecttecher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T15:48:37.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\ders\\kursavoy\\DB\\EducationProcess\\EducationProcess\\Pages\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "EducationProcess\\Pages\\Privacy.cshtml",
+              "ToolTip": "D:\\ders\\kursavoy\\DB\\EducationProcess\\EducationProcess\\Pages\\Privacy.cshtml",
+              "RelativeToolTip": "EducationProcess\\Pages\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-01T17:56:18.868Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

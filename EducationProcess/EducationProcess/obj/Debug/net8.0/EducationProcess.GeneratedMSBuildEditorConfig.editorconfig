@@ -1,0 +1,175 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = EducationProcess
+build_property.RootNamespace = EducationProcess
+build_property.ProjectDir = D:\ders\kursavoy\DB\EducationProcess\EducationProcess\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\ders\kursavoy\DB\EducationProcess\EducationProcess
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/ders/kursavoy/DB/EducationProcess/EducationProcess/Pages/Cafedras/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2FmZWRyYXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ders/kursavoy/DB/EducationProcess/EducationProcess/Pages/Cafedras/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2FmZWRyYXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ders/kursavoy/DB/EducationProcess/EducationProcess/Pages/Cafedras/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2FmZWRyYXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ders/kursavoy/DB/EducationProcess/EducationProcess/Pages/Cafedras/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2FmZWRyYXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ders/kursavoy/DB/EducationProcess/EducationProcess/Pages/Cafedras/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2FmZWRyYXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ders/kursavoy/DB/EducationProcess/EducationProcess/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ders/kursavoy/DB/EducationProcess/EducationProcess/Pages/Faculties/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmFjdWx0aWVzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ders/kursavoy/DB/EducationProcess/EducationProcess/Pages/Faculties/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmFjdWx0aWVzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ders/kursavoy/DB/EducationProcess/EducationProcess/Pages/Faculties/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmFjdWx0aWVzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ders/kursavoy/DB/EducationProcess/EducationProcess/Pages/Faculties/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmFjdWx0aWVzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ders/kursavoy/DB/EducationProcess/EducationProcess/Pages/Faculties/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmFjdWx0aWVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ders/kursavoy/DB/EducationProcess/EducationProcess/Pages/Grades/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR3JhZGVzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ders/kursavoy/DB/EducationProcess/EducationProcess/Pages/Grades/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR3JhZGVzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ders/kursavoy/DB/EducationProcess/EducationProcess/Pages/Grades/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR3JhZGVzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ders/kursavoy/DB/EducationProcess/EducationProcess/Pages/Grades/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR3JhZGVzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ders/kursavoy/DB/EducationProcess/EducationProcess/Pages/Grades/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR3JhZGVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ders/kursavoy/DB/EducationProcess/EducationProcess/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ders/kursavoy/DB/EducationProcess/EducationProcess/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ders/kursavoy/DB/EducationProcess/EducationProcess/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ders/kursavoy/DB/EducationProcess/EducationProcess/Pages/Students/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3R1ZGVudHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ders/kursavoy/DB/EducationProcess/EducationProcess/Pages/Students/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3R1ZGVudHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ders/kursavoy/DB/EducationProcess/EducationProcess/Pages/Students/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3R1ZGVudHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ders/kursavoy/DB/EducationProcess/EducationProcess/Pages/Students/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3R1ZGVudHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ders/kursavoy/DB/EducationProcess/EducationProcess/Pages/Students/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3R1ZGVudHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ders/kursavoy/DB/EducationProcess/EducationProcess/Pages/Subjects/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3ViamVjdHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ders/kursavoy/DB/EducationProcess/EducationProcess/Pages/Subjects/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3ViamVjdHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ders/kursavoy/DB/EducationProcess/EducationProcess/Pages/Subjects/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3ViamVjdHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ders/kursavoy/DB/EducationProcess/EducationProcess/Pages/Subjects/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3ViamVjdHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ders/kursavoy/DB/EducationProcess/EducationProcess/Pages/Subjects/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3ViamVjdHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ders/kursavoy/DB/EducationProcess/EducationProcess/Pages/Teachers/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGVhY2hlcnNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ders/kursavoy/DB/EducationProcess/EducationProcess/Pages/Teachers/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGVhY2hlcnNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ders/kursavoy/DB/EducationProcess/EducationProcess/Pages/Teachers/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGVhY2hlcnNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ders/kursavoy/DB/EducationProcess/EducationProcess/Pages/Teachers/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGVhY2hlcnNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ders/kursavoy/DB/EducationProcess/EducationProcess/Pages/Teachers/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGVhY2hlcnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ders/kursavoy/DB/EducationProcess/EducationProcess/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ders/kursavoy/DB/EducationProcess/EducationProcess/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ders/kursavoy/DB/EducationProcess/EducationProcess/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-lhjs8qghzl

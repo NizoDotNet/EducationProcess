@@ -1,0 +1,51 @@
+﻿@page
+@model EducationProcess.Pages.Grades.CreateModel
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>Grade</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Grade.StudentId" class="control-label"></label>
+                <select asp-for="Grade.StudentId" class ="form-control" asp-items="ViewBag.StudentId"></select>
+            </div>
+            <div class="form-group">
+                <label asp-for="Grade.TeacherId" class="control-label"></label>
+                <select asp-for="Grade.TeacherId" class ="form-control" asp-items="ViewBag.TeacherId"></select>
+            </div>
+            <div class="form-group">
+                <label asp-for="Grade.SubjectId" class="control-label"></label>
+                <select asp-for="Grade.SubjectId" class ="form-control" asp-items="ViewBag.SubjectId"></select>
+            </div>
+            <div class="form-group">
+                <label asp-for="Grade.SemesterScore" class="control-label"></label>
+                <input asp-for="Grade.SemesterScore" class="form-control" />
+                <span asp-validation-for="Grade.SemesterScore" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Grade.ExamScore" class="control-label"></label>
+                <input asp-for="Grade.ExamScore" class="form-control" />
+                <span asp-validation-for="Grade.ExamScore" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-page="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
